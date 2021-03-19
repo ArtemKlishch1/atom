@@ -80,6 +80,7 @@
     "jasmine-tagged": "^1.1.4",
     "key-path-helpers": "^0.4.0",
     "keybinding-resolver": "https://www.atom.io/api/packages/keybinding-resolver/versions/0.39.0/tarball",
+    "keytar": "^7.4.0",
     "language-c": "https://www.atom.io/api/packages/language-c/versions/0.60.19/tarball",
     "language-clojure": "https://www.atom.io/api/packages/language-clojure/versions/0.22.8/tarball",
     "language-coffee-script": "https://www.atom.io/api/packages/language-coffee-script/versions/0.50.0/tarball",
